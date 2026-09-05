@@ -43,3 +43,10 @@
     "vitest": "^2.0.5"
   }
 }
+{
+  "homepage": "https://yourusername.github.io/sleepwise",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
