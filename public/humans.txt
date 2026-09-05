@@ -1,0 +1,14 @@
+# humans.txt for SleepWise
+
+/* TEAM */
+Developer: SleepWise Development Team
+Email: hello@sleepwise.com
+Twitter: @sleepwise
+
+/* THANKS */
+Thanks to all sleep researchers and scientists whose work informs our tools.
+Special thanks to the National Sleep Foundation and CDC for sleep guidelines.
+
+/* SITE */
+Last update: 2024-01-15
+Standards: HTML5, CSS3, JavaScript, WCAG 2.2 AA
