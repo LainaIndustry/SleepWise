@@ -93,6 +93,42 @@ const educationTopics = [
     category: 'Family',
     path: '/education/children-sleep',
   },
+  {
+    id: 'teen-sleep',
+    title: 'Teen Sleep Guide',
+    description: 'Navigating sleep challenges during the teenage years.',
+    icon: Users,
+    readTime: 7,
+    category: 'Family',
+    path: '/education/teen-sleep',
+  },
+  {
+    id: 'adult-sleep',
+    title: 'Adult Sleep Wellness',
+    description: 'Maintaining healthy sleep habits through adulthood.',
+    icon: Heart,
+    readTime: 6,
+    category: 'Sleep Wellness',
+    path: '/education/adult-sleep',
+  },
+  {
+    id: 'napping',
+    title: 'The Art of Napping',
+    description: 'Everything you need to know about napping for optimal rest.',
+    icon: Moon,
+    readTime: 5,
+    category: 'Sleep Timing',
+    path: '/education/napping',
+  },
+  {
+    id: 'jet-lag',
+    title: 'Managing Jet Lag',
+    description: 'Strategies to minimize jet lag and adjust to new time zones quickly.',
+    icon: Sun,
+    readTime: 7,
+    category: 'Travel',
+    path: '/education/jet-lag',
+  },
 ];
 
 export default function EducationIndex() {
